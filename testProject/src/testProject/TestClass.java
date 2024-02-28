@@ -8,6 +8,7 @@ public class TestClass {
 		//New Comment - test with token
 		//New comment added in the repo
 		//Comment 1 - added in eclipse.
+		//Testing adding directly in the repo
 	}
 
 }
